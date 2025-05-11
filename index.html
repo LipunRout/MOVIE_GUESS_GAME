@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guess the Movie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>🎬 Guess the Movie Name</h1>
+    
+    <div class="masked-word" id="maskedWord">_ _ _ _ _</div>
+    
+    <input type="text" id="userGuess" placeholder="Enter a letter or full name">
+    <button onclick="checkGuess()">Submit</button>
+
+    <p id="message"></p>
+    <p id="hint">Hint: It's a popular movie!</p>
+  </div>
+
+  <script src="Script.js"></script>
+</body>
+</html>
