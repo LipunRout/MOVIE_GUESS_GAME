@@ -12,7 +12,7 @@ A fun and interactive web-based game where players try to guess the hidden movie
 
 ## 🖥️ Demo
 
-Try it live: *[Coming Soon or your GitHub Pages link]*
+-[Play](https://lipunrout.github.io/MOVIE_GUESS_GAME/)
 
 ## 📂 Project Structure
 guess-the-movie/
